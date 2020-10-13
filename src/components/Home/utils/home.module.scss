@@ -1,0 +1,14 @@
+@import "../../../styles/variables";
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+
+  &__tags {
+    display: flex;
+    justify-content: center !important;
+  }
+}

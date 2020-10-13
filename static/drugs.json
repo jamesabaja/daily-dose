@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Paracetamol",
+    "conditions": [
+      "Fever",
+      "Mild pain",
+      "Pain",
+      "Severe Pain",
+      "Minor aches and pains",
+      "Moderate Pain"
+    ],
+    "class": "Analgesics (Non-Opioid) & Antipyretics",
+    "indication": "For the treatment of mild to moderate pain and reduction of fever."
+  },
+  {
+    "name": "Ibuprofen",
+    "class": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)",
+    "conditions": [
+      "Ankylosing Spondylitis (AS)",
+      "Cystic Fibrosis (CF)",
+      "Fever",
+      "Gastric Ulcer",
+      "Gouty Arthritis",
+      "Headache",
+      "Insomnia",
+      "Juvenile Idiopathic Arthritis (JIA)",
+      "Menstrual Cramps",
+      "Migraine",
+      "Mild pain",
+      "Osteoarthritis (OA)",
+      "Pain",
+      "Pain, Acute",
+      "Patent Ductus Arteriosus (PDA)",
+      "Pericarditis",
+      "Primary Dysmenorrhoea",
+      "Rheumatoid Arthritis",
+      "Severe Pain",
+      "Mild to moderate pain",
+      "Moderate Pain"
+    ],
+    "indication": "For the management of mild to moderate pain related to dysmenorrhea, headache, migraine, postoperative dental pain, spondylitis, osteoarthritis, rheumatoid arthritis, and soft tissue disorder."
+  },
+  {
+    "name": "Amoxicillin",
+    "class": "Penicillins",
+    "conditions": [
+      "Acute Bacterial Sinusitis (ABS)",
+      "Acute Otitis Media",
+      "Acute Otitis Media (AOM)",
+      "Bacterial Infection Due to Helicobacter Pylori (H. Pylori)",
+      "Bacterial Infections",
+      "Community Acquired Pneumonia (CAP)",
+      "Duodenal ulcer caused by helicobacter pylori",
+      "Genitourinary infections",
+      "Lower Respiratory Tract Infection (LRTI)",
+      "Sinusitis",
+      "Urinary Tract Infection",
+      "Acute, uncomplicated Gonorrhea",
+      "Bacterial skin and skin structure infections",
+      "Ear, nose, and throat infections"
+    ],
+    "indication": "For the treatment of susceptible bacterial infections of the ear, nose, throat, genitourinary tract, skin, skin structure, and lower respiratory tract."
+  },
+  {
+    "name": "Metformin",
+    "class": "Antidiabetic Agents",
+    "conditions": ["Polycystic Ovaries Syndrome", "Type 2 Diabetes Mellitus"],
+    "indication": "Indicated as an adjunct to diet and exercise to increase glycemic control in adults and pediatric patients 10 years of age and older diagnosed with type 2 diabetes mellitus."
+  },
+  {
+    "name": "Valsartan",
+    "class": "Angiotensin II Antagonists",
+    "conditions": [
+      "Cardiovascular Mortality",
+      "High Blood Pressure (Hypertension)",
+      "Left Ventricular Dysfunction",
+      "Moderate Essential Hypertension",
+      "Nephropathy, Diabetic",
+      "Chronic heart failure with reduced ejection fraction (NYHA Class II)",
+      "Chronic heart failure with reduced ejection fraction (NYHA Class III)",
+      "Chronic heart failure with reduced ejection fraction (NYHA Class IV)",
+      "Hospitalization due to cardiac failure"
+    ],
+    "indication": "For the treatment of hypertension to reduce the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions."
+  }
+]
