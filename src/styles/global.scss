@@ -1,13 +1,9 @@
 @charset "utf-8";
 @import "./variables.scss";
-@import "bulma";
+@import "./typography";
 
 html {
   scroll-behavior: smooth;
-}
-
-h1 {
-  font-family: "Bebas Neue", cursive;
-  color: black;
-  font-size: 8rem !important;
+  font-family: $ubuntu;
+  cursor: default;
 }
