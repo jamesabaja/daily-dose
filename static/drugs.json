@@ -82,5 +82,16 @@
       "Hospitalization due to cardiac failure"
     ],
     "indication": "For the treatment of hypertension to reduce the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions."
+  }, {
+    "name": "Omeprazole",
+    "class": "Proton Pump Inhibitor",
+    "conditions": [
+      "Peptic ulcer",
+      "NSAID-associated ulceration",
+      "Eradication of H. pylori associated with peptic ulcer disease",
+      "Gastro-oesophageal reflux disease",
+      "Zollinger-Ellison syndrome"
+    ],
+    "indication": "Common treatment for peptic ulcer and gastro-oesophageal reflux disease."
   }
 ]
