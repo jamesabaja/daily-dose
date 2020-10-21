@@ -64,7 +64,10 @@
   {
     "name": "Metformin",
     "class": "Antidiabetic Agents",
-    "conditions": ["Polycystic Ovaries Syndrome", "Type 2 Diabetes Mellitus"],
+    "conditions": [
+      "Polycystic Ovaries Syndrome",
+      "Type 2 Diabetes Mellitus"
+    ],
     "indication": "Indicated as an adjunct to diet and exercise to increase glycemic control in adults and pediatric patients 10 years of age and older diagnosed with type 2 diabetes mellitus."
   },
   {
@@ -82,5 +85,13 @@
       "Hospitalization due to cardiac failure"
     ],
     "indication": "For the treatment of hypertension to reduce the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions."
+  },
+  {
+    "name": "Paliperidone palmitate",
+    "class": "Antipsychotics",
+    "conditions": [
+      "Schizophrenia"
+    ],
+    "indication": "Treatment of schizophrenia & prevention of the recurrence of symptoms of schizophrenia."
   }
 ]
