@@ -88,5 +88,17 @@
     "class": "Antipsychotics",
     "conditions": ["Schizophrenia"],
     "indication": "For the treatment of schizophrenia & prevention of the recurrence of symptoms of schizophrenia."
+  },
+  {
+    "name": "Omeprazole",
+    "class": "Proton Pump Inhibitor",
+    "conditions": [
+      "Peptic ulcer",
+      "NSAID-associated ulceration",
+      "Eradication of H. pylori associated with peptic ulcer disease",
+      "Gastro-oesophageal reflux disease",
+      "Zollinger-Ellison syndrome"
+    ],
+    "indication": "Common treatment for peptic ulcer and gastro-oesophageal reflux disease."
   }
 ]
